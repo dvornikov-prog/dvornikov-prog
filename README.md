@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![2de882cd4f3992ada3d609e3a183f7a4--marketing](https://user-images.githubusercontent.com/52354386/236214331-effca032-26ec-4cf5-a4f9-92ff2d37af20.jpg)
+
 <!--
 **dvornikov-prog/dvornikov-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
